@@ -1,6 +1,0 @@
-C:\Users\Asen\Desktop\TelerikAcademy\C#-1\01. Introduction to Programming\Homework\04. Hello World\bin\Debug\_04.Hello_World.exe.config
-C:\Users\Asen\Desktop\TelerikAcademy\C#-1\01. Introduction to Programming\Homework\04. Hello World\bin\Debug\_04.Hello_World.exe
-C:\Users\Asen\Desktop\TelerikAcademy\C#-1\01. Introduction to Programming\Homework\04. Hello World\bin\Debug\_04.Hello_World.pdb
-C:\Users\Asen\Desktop\TelerikAcademy\C#-1\01. Introduction to Programming\Homework\04. Hello World\obj\Debug\04. Hello World.csprojResolveAssemblyReference.cache
-C:\Users\Asen\Desktop\TelerikAcademy\C#-1\01. Introduction to Programming\Homework\04. Hello World\obj\Debug\_04.Hello_World.exe
-C:\Users\Asen\Desktop\TelerikAcademy\C#-1\01. Introduction to Programming\Homework\04. Hello World\obj\Debug\_04.Hello_World.pdb
